@@ -1,0 +1,1 @@
+# foodmunch_static_webtemplate
